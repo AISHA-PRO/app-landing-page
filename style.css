@@ -473,10 +473,13 @@ nav .menu-btn:checked ~ .menu-icon:not(.steps) .navicon::before , nav .menu-btn:
   
     border: 1px solid rgb(189, 188, 188);
 }
-.contact table tr{
+.contactform{
+    height: 0px;
+}
+/* .contact table tr{
     width: 10%;
     overflow: hidden;
-}
+} */
 .msg{
    width: 200px;
    overflow: hidden;
